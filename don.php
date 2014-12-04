@@ -7,32 +7,32 @@
 		<p= "para_centre"> Nous proposons un système de donations directes et un système de donations indirectes </p>
 			
 		<p>
-				   <div class="text_gauche">
+				   <span class="text_gauche">
 					Dons directs 
-					</div>
-					<div class="text_droite">
+					</span>
+					<span class="text_droite">
 					Dons indirects </br>
-					</div>
-					<div class="text_gauche">
+					</span>
+					<span class="text_gauche">
 					Ce système de dons permet de contribuer financièrement 
-					</div>
-					<div class="text_droite">
+					</span>
+					<span class="text_droite">
 					Ce système de dons permet de contribuer en jouant à un jeu. </br> Le site s'engage à transformer votre score en donation </br>
-					</div>
+					</span>
 					
 					
 	
 			
-				<div class="text_gauche">
+				<span class="text_gauche">
 					<a href="dons_direct.php" > Cliquez ici pour faire un don </a>
-				</div>	
+				</span>	
 					
 					
 				
 				
-				<div class="text_droite">	
+				<span class="text_droite">	
 					 <a href="dons_indirect.php" > Cliquez ici pour commencer à jouer </a>
-				</div>
+				</span>
 			
 		</p>
 </div>
