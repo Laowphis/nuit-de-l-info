@@ -15,13 +15,13 @@
 	
 				<tr>
 					<td> Ce système de dons permet de contribuer financièrement </td>
-					<td> Ce système de dons permet de contribuer en jouant à un jeu. </br> Le site s'engage de transformer un pourcentage de votre score en donation </td>
+					<td> Ce système de dons permet de contribuer en jouant à un jeu. </br> Le site s'engage à transformer votre score en donation </td>
 					
 				</tr>	
 				
 				<tr>
-					<td> <a href="dons_direct.html" > Cliquez ici pour faire un don </a> </td>
-					<td> <a href="dons_indirect.html" > Cliquez ici pour commencer à jouer </a> </td>
+					<td> <a href="dons_direct.php" > Cliquez ici pour faire un don </a> </td>
+					<td> <a href="dons_indirect.php" > Cliquez ici pour commencer à jouer </a> </td>
 				</tr>
 	
 	
