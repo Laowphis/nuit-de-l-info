@@ -16,10 +16,12 @@ body {
 
 h1 {
 	padding-top:40px; /* Pour que les titres ne soient pas "mangés" lorsqu'on utilise les ancres */
+	text-align: center;
 }
 
 h2 {
 	padding-left : 30px;
+	text-align: center;
 }
 
 .section{
