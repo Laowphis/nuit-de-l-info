@@ -18,6 +18,10 @@
 		</div>
 	</div>
 	
+	<div id="sous-titre"> 
+		<h4> Envie de soumettre une association absente du site? <h4> <br>
+		Aidez-nous à trouver de nouvelles associations
+	</div>
 	<div id="suggestion_association">
 		<p> Pour faire une suggestion d'association, veuillez envoyer un mail à insertcoin4charity@gmail.com avec : <br>
 		Nom de l'association <br>
