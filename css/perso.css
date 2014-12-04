@@ -4,6 +4,11 @@ body {
 	background:-webkit-gradient(linear, 80% 20%, 10% 21%, from(#0191b3), to(#9bb700));
 }
 
+.map
+{
+    border: 5px blue double;
+}
+
 [class*="col-"] {
 	padding-top: 15px;
 	padding-bottom: 15px;
