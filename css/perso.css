@@ -32,6 +32,12 @@ h2 {
 	text-align: center;
 }
 
+h3 {
+	padding-left : 20px;
+	text-align: center;
+
+}
+
 .section{
 	margin-top:20px;
 }
@@ -64,4 +70,8 @@ p {
 	text-decoration: underline;
 	cursor: pointer;
 	font-family : "Lucida Bright", Georgia, Arial;
+}
+#para_centre {
+text-align: center;
+
 }
