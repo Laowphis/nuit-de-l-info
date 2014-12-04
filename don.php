@@ -1,11 +1,35 @@
+<div id="contenu">
+					
+	<h1>Un don pour changer le monde </h1> <!-- Title -->
+	<h3> Dans l'optique de la réduction des inégalités dans le monde, notre site met en place deux systèmes permettant de contribuer financièrement 
+	à différentes associations engagées dans ces luttes humanitaires.   </h3>  <!-- Presentation -->
+ 
+	<p> Nous proposons un système de donations directes et un système de donations indirectes </p>
+		<table>  <!-- Table for the donation's system -->
 
-				<div id="contenu">
-					<!-- <embed id="zik" src="music/Hard.mp3"  hidden="true" width="0" height="0" autostart="false" loop="false" align="left"> </embed> -->
-					<audio id="zik" src="" autoplay="true"  > </audio> </br>
-					<p id="accroche"> Bien le bienvenue sur mon site aventurier. </br>Ce site te premetra de me connaitre et de suivre mes projet </p>
-					<h1>Qui suis je?</h1>
-					<p> Etuidant en 1er année à L'ENSISA à Mulhouse en filiére informatique et reseaux </p>
-					<p></p>
-					<p>  </p>
-				</div>
-			
+			<tr>   
+				<td>Dons directs</td>
+				<td>Dons indirects</td>
+		
+			</tr>
+	
+			<tr>
+				<td> Ce système de dons permet de contribuer financièrement </td>
+				<td> Ce système de dons permet de contribuer en jouant à un jeu. </br> Le site s'engage de transformer un pourcentage de votre score en donation </td>
+					
+			</tr>	
+				
+			<tr>
+				<td> <a href "" > Cliquez ici pour faire un don </a> </td>
+				<td> <a href "" > Cliquez ici pour commencer à jouer </a> </td>
+			</tr>
+	
+	
+	
+
+	
+	
+	
+
+		</table>
+</div>
