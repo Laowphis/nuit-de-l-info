@@ -14,13 +14,14 @@
 	
 	<div id="map">
 	<h2>Carte des populations sinistrées dans le monde</h2>
+	<img href="https://a.tiles.mapbox.com/v4/wildcerebrus.kd8723da/page.html?access_token=pk.eyJ1Ijoid2lsZGNlcmVicnVzIiwiYSI6IjZsTlpyTGcifQ.DNivhP6lPb55hN0QQhJJyw#3/0.00/0.00" id="mappemonde"/>
 	</div>
 	
 	</hr>
 	<table>
 		<tr>
 			<td>Convaincu de faire un don ? C'est par ici</td>
-			<td><img src="img/fleche.png"/> <a href="don.php"> <img src="img/don.png"/> </a></td>
+			<td><img src="img/fleche.png"/> <a href="index.php?page=Don"> <img src="img/don.png"/> </a></td>
 		<tr>
 	</table>
 	
