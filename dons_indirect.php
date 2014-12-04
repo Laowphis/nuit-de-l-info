@@ -1,7 +1,4 @@
 <div id="contenu">
-	<h1> Un don pour changer le monde </h1>
-	<h3> Bienvenue dans le système de donation directe </h3>
-	
 	
 	<h1> Un don pour changer le monde </h1>
 	<h3> Bienvenue dans le système de donation indirecte </h3>
