@@ -8,23 +8,33 @@
 			
 		<p>
 				   <p class="text_gauche">
-					Dons directs </br>
-					Ce système de dons permet de contribuer financièrement </br>
-					<a href="dons_direct.php" > Cliquez ici pour faire un don </a>
+					Dons directs 
+					</p>
+					<p class="text_droite">
+					Dons indirects </br>
+					</p>
+					<p class="text_gauche">
+					Ce système de dons permet de contribuer financièrement 
+					</p>
+					<p class="text_droite">
+					Ce système de dons permet de contribuer en jouant à un jeu. </br> Le site s'engage à transformer votre score en donation
+					</p>
+					
+					
 		
 				</p>
 	
-				
-					<p class="text_droite">
-					Dons indirects </br>
-					 Ce système de dons permet de contribuer en jouant à un jeu. </br> Le site s'engage à transformer votre score en donation
+			<p>
+				<p class="text_gauche">
+					<a href="dons_direct.php" > Cliquez ici pour faire un don </a>
+				</p>	
 					
 					
 				
 				
-					
+				<p class="text_droite">	
 					 <a href="dons_indirect.php" > Cliquez ici pour commencer à jouer </a>
-				
+				</p>
 			</p>
-		</p>
+		
 </div>

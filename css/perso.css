@@ -75,3 +75,10 @@ p {
 text-align: center;
 
 }
+#text_droite{
+text-align : right;
+}
+
+#text_gauche{
+text-align: left;
+}
