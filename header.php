@@ -35,11 +35,11 @@
 			<div id="centre">
 				<div id="navigation">
 					<ul id="menu">
-						<li><a href="index.php?page=accueil"> Accueil</a></li></br>
-						<li><a href="index.php?page=cause"> Cause</a></li></br>
-						<li><a href="index.php?page=Don">Don</a></li></br>
-						<li><a href="index.php?page=contact">Contact</a></li></br>
-						<li><a href="index.php?page=association">association</a></li></br>
-						<li><a href="index.php?page=2048">2048</a></li></br>
+						<li><a href="index.php?page=accueil"> Accueil</a></li>
+						<li><a href="index.php?page=cause"> Cause</a></li>
+						<li><a href="index.php?page=Don">Don</a></li>
+						<li><a href="index.php?page=contact">Contact</a></li>
+						<li><a href="index.php?page=association">association</a></li>
+						<li><a href="index.php?page=2048">2048</a></li>
 					</ul>
 				</div>

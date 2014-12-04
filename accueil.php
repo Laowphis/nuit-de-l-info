@@ -23,7 +23,7 @@
 	<table id="table">
 		<tr>
 			<td>Convaincu de faire un don ? C'est par ici</td>
-			<td><img src="img/fleche.png"/> <a href="index.php?page=Don"> <img src="img/don.png"/> </a></td>
+			<td><img src="img/fleche.png"/> <a href="index.php?page=don"> <img src="img/don.png"/> </a></td>
 		<tr>
 	</table>
 	
