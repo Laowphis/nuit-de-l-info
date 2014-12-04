@@ -9,6 +9,7 @@
 			<form action="suggestion.php">
 			<textarea name="suggestion" cols="100" rows="5"></textarea>
 			<br>
+			<br>
 			<input type="submit" value="suggérer">
 			</form> 
 		</div>
