@@ -9,9 +9,9 @@
 		<p>
 
 				   <ul class="liste_ligne" >
-						<li class="liste_ligne"> Dons directs </br> Ce système de dons permet de contribuer financièrement </br> 
+						<li> Dons directs </br> Ce système de dons permet de contribuer financièrement </br> 
 						<a href="dons_direct.php" > Cliquez ici pour faire un don </a>  </li> 
-						<li class="liste_ligne"> Dons indirects </br> Ce système de dons permet de contribuer en jouant à un jeu.
+						<li> Dons indirects </br> Ce système de dons permet de contribuer en jouant à un jeu.
 						 Le site s'engage à transformer votre score en donation </br> <a href="dons_indirect.php" > Cliquez ici pour commencer à jouer </a> </li>
 					</ul>
 					
