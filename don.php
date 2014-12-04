@@ -8,7 +8,7 @@
 			
 		<p>
 
-				   <ul >
+				   <ul class="liste_ligne" >
 						<li class="liste_ligne"> Dons directs </br> Ce système de dons permet de contribuer financièrement </br> 
 						<a href="dons_direct.php" > Cliquez ici pour faire un don </a>  </li> 
 						<li class="liste_ligne"> Dons indirects </br> Ce système de dons permet de contribuer en jouant à un jeu.
