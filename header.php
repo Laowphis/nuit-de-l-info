@@ -25,21 +25,25 @@
 		
     </head>
     <body>
-		<div id="conteneur">
-			<div id="entete">
-				<img  id="ensisa" src="img/5812_BIG20.jpg" alt="photo profil" />
-				<p id="header">Jonathan Fernandes</p>
-				<p id="current"> Accueil </p>
-			</div>
+		<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.php?page=accueil">Insert coin for charity</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="index.php?page=Don">Dons</a></li>
+            <li><a href="index.php?page=association">Associations</a></li>
+            <li><a href="index.php?page=cause">Suggestions</a></li>
+			<li><a href="index.php?page=contact">Contacts</a></li>
 			
-			<div id="centre">
-				<div id="navigation">
-					<ul id="menu">
-						<li><a href="index.php?page=accueil"> Accueil</a></li>
-						<li><a href="index.php?page=cause"> Cause</a></li>
-						<li><a href="index.php?page=Don">Don</a></li>
-						<li><a href="index.php?page=contact">Contact</a></li>
-						<li><a href="index.php?page=association">association</a></li>
-						<li><a href="index.php?page=2048">2048</a></li>
-					</ul>
-				</div>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>

@@ -43,7 +43,7 @@
 		*/
 		
 		
-		else{ include ('404.php');}
+		//else{ include ('404.php');}
 	}
 	
 	
