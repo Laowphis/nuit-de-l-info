@@ -4,7 +4,7 @@
 		<h3> Dans l'optique de la réduction des inégalités dans le monde, notre site met en place deux systèmes permettant de contribuer financièrement 
 		à différentes associations engagées dans ces luttes humanitaires.   </h3>  <!-- Presentation -->
  
-		<p> Nous proposons un système de donations directes et un système de donations indirectes </p>
+		<p= "para_centre"> Nous proposons un système de donations directes et un système de donations indirectes </p>
 			<table>  <!-- Table for the donation's system -->
 
 				<tr>   
