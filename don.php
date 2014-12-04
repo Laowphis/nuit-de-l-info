@@ -23,18 +23,6 @@
 					<td> <a href="dons_direct.php" > Cliquez ici pour faire un don </a> </td>
 					<td> <a href="dons_indirect.php" > Cliquez ici pour commencer à jouer </a> </td>
 				</tr>
-	
-	
-	
-
 			</table>
-	
-	
-	
-
-	
-	
-	
-
-		</table>
+		</p>
 </div>
