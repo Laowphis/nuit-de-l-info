@@ -40,5 +40,6 @@
 						<li><a href="index.php?page=Don">Don</a></li></br>
 						<li><a href="index.php?page=contact">Contact</a></li></br>
 						<li><a href="index.php?page=association">association</a></li></br>
+						<li><a href="index.php?page=2048">2048</a></li></br>
 					</ul>
 				</div>

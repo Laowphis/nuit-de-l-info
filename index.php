@@ -19,6 +19,9 @@
 		elseif ($page =='association'){
 			include('association.php');
 		}
+		elseif ($page =='2048'){
+			include('2048.php');
+		}
 		/*elseif ($page =='contact'){
 			include ('contact.php');
 		}
