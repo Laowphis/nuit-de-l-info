@@ -36,9 +36,9 @@
 				<div id="navigation">
 					<ul id="menu">
 						<li><a href="index.php?page=accueil"> Accueil</a></li></br>
-						<li><a href="index.php?page=portfolio"> Portfolio</a></li></br>
-						<li><a href="index.php?page=CV">CV</a></li></br>
+						<li><a href="index.php?page=cause"> Cause</a></li></br>
+						<li><a href="index.php?page=Don">Don</a></li></br>
 						<li><a href="index.php?page=contact">Contact</a></li></br>
-						<li><a href="index.php?page=p2">Page 2</a></li></br>
+						<li><a href="index.php?page=association">association</a></li></br>
 					</ul>
 				</div>

@@ -10,13 +10,16 @@
 		if ($page =='accueil'){
 			include ('accueil.php');
 		}
-		elseif ($page =='portfolio'){
-			include ('portfolio.php');
+		elseif ($page =='cause'){
+			include ('cause.php');
 		}
-		elseif ($page =='CV'){
-			include ('CV.php');
+		elseif ($page =='Don'){
+			include ('don.php');
 		}
-		elseif ($page =='contact'){
+		elseif ($page =='association'){
+			include('association.php');
+		}
+		/*elseif ($page =='contact'){
 			include ('contact.php');
 		}
 		elseif ($page =='administration'){
@@ -28,10 +31,8 @@
 		elseif ($page =='traitement'){
 			include('traitement.php');
 		}
+		*/
 		
-		elseif ($page =='p2'){
-			include('p2.php');
-		}
 		
 		else{ include ('404.php');}
 	}
