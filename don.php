@@ -5,24 +5,26 @@
 		à différentes associations engagées dans ces luttes humanitaires.   </h3>  <!-- Presentation -->
  
 		<p= "para_centre"> Nous proposons un système de donations directes et un système de donations indirectes </p>
-			<table>  <!-- Table for the donation's system -->
-
-				<tr>   
-					<td>Dons directs</td>
-					<td>Dons indirects</td>
+			
+		<p>
+				   <p class="text_gauche">
+					Dons directs </br>
+					Ce système de dons permet de contribuer financièrement </br>
+					<a href="dons_direct.php" > Cliquez ici pour faire un don </a>
 		
-				</tr>
+				</p>
 	
-				<tr>
-					<td> Ce système de dons permet de contribuer financièrement </td>
-					<td> Ce système de dons permet de contribuer en jouant à un jeu. </br> Le site s'engage à transformer votre score en donation </td>
-					
-				</tr>	
 				
-				<tr>
-					<td> <a href="dons_direct.php" > Cliquez ici pour faire un don </a> </td>
-					<td> <a href="dons_indirect.php" > Cliquez ici pour commencer à jouer </a> </td>
-				</tr>
-			</table>
+					<p class="text_droite">
+					Dons indirects </br>
+					 Ce système de dons permet de contribuer en jouant à un jeu. </br> Le site s'engage à transformer votre score en donation
+					
+					
+				
+				
+					
+					 <a href="dons_indirect.php" > Cliquez ici pour commencer à jouer </a>
+				
+			</p>
 		</p>
 </div>
