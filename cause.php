@@ -1,11 +1,29 @@
-
-				<div id="contenu">
-					<!-- <embed id="zik" src="music/Hard.mp3"  hidden="true" width="0" height="0" autostart="false" loop="false" align="left"> </embed> -->
-					<audio id="zik" src="" autoplay="true"  > </audio> </br>
-					<p id="accroche"> Bien le bienvenue sur mon site aventurier. </br>Ce site te premetra de me connaitre et de suivre mes projet </p>
-					<h1>Qui suis je?</h1>
-					<p> Etuidant en 1er année à L'ENSISA à Mulhouse en filiére informatique et reseaux </p>
-					<p></p>
-					<p>  </p>
-				</div>
-			
+<div id="contenu">
+	<div id="titre"> <h3> Défend ta cause : </h3>
+	</div>
+	<div id="new_cause"> 
+		<div id="consigne_new_cause">
+		Suggérez votre cause ici :
+		</div>
+		<div id="input_new_cause ">
+			<form action="suggestion.php">
+			<textarea name="suggestion" cols="100" rows="5"></textarea>
+			<br>
+			<input type="submit" value="suggérer">
+			</form> 
+		</div>
+		<div id="suggestions_precedentes">
+		
+		
+		</div>
+	</div>
+	
+	<div id="suggestion_association">
+		<p> Pour faire une suggestion d'association, veuillez envoyer un mail à insertcoin4charity@gmail.com avec : <br>
+		Nom de l'association <br>
+		Cause défendue par l'association <br>
+		Site de l'association <br>
+		Localisation des actions de l'association
+		</p>
+	</div>
+</div>
