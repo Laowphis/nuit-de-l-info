@@ -5,7 +5,7 @@
 	
 	
 		<form>
-			<p> Veuillez choisir les assosiations auprès desquelles vous souhaitez contribuer </br>
+			<p class ="para_centre"> Veuillez choisir les assosiations auprès desquelles vous souhaitez contribuer </br>
 					<table>
 						<tr> 
 							<td> <input type="checkbox" name= id=" ASSO1" /> <label for="ASSO1">ASSO1</label><br /> </td>
