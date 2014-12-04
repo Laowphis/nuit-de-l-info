@@ -14,7 +14,7 @@
 	
 	<div id="map">
 	<h2>Carte des populations sinistrées dans le monde</h2>
-	<img href="https://a.tiles.mapbox.com/v4/wildcerebrus.kd8723da/page.html?access_token=pk.eyJ1Ijoid2lsZGNlcmVicnVzIiwiYSI6IjZsTlpyTGcifQ.DNivhP6lPb55hN0QQhJJyw#3/0.00/0.00" id="mappemonde"/>
+	<iframe width='85%' height='500px' frameBorder='2' src='https://a.tiles.mapbox.com/v4/wildcerebrus.kd8723da/page.html?access_token=pk.eyJ1Ijoid2lsZGNlcmVicnVzIiwiYSI6IjZsTlpyTGcifQ.DNivhP6lPb55hN0QQhJJyw#3/0.00/0.00'></iframe>
 	</div>
 	
 	</hr>
