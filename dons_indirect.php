@@ -13,6 +13,6 @@
 	
 	
 	</div>
-
+<p class= "para_centre"> Le site s'engage à transformer votre score en donation. </p>
 
 </div>
