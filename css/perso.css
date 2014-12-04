@@ -71,7 +71,7 @@ p {
 	cursor: pointer;
 	font-family : "Lucida Bright", Georgia, Arial;
 }
-#para_centre {
+.para_centre {
 text-align: center;
 
 }
