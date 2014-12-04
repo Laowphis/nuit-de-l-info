@@ -10,7 +10,7 @@
 				   <p class="text_gauche">
 					Dons directs </br>
 					Ce système de dons permet de contribuer financièrement </br>
-					<a href="dons_direct.php" > Cliquez ici pour faire un don </a>
+					<a href="index.php?page=dons_direct" > Cliquez ici pour faire un don </a>
 		
 				</p>
 	

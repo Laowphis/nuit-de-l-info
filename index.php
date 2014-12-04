@@ -22,6 +22,12 @@
 		elseif ($page =='2048'){
 			include('2048.php');
 		}
+		elseif ($page =='dons_direct'){
+			include('dons_direct.php');
+		}
+		elseif ($page =='dons_indirect'){
+			include('dons_indirect.php');
+		}
 		/*elseif ($page =='contact'){
 			include ('contact.php');
 		}
