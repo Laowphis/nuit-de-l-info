@@ -6,7 +6,10 @@ body {
 
 .map
 {
-    border: 5px blue double;
+    border: 5px blue outset;
+	border-radius: 10px;
+	width: 70%;
+	margin: auto;
 }
 
 [class*="col-"] {
