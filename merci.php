@@ -1,4 +1,4 @@
 <div id="contenu">
-	<p> Merci de votre suggestion ! </p>
+	<p> Merci de votre soutien ! </p>
 
 </div>
