@@ -16,8 +16,13 @@
 	</p>		
 	Site web : <a href="http://www.actioncontrelafaim.org/">http://www.actioncontrelafaim.org/</a>
 	<br><br>
+<<<<<<< HEAD
 	<img src="./img/ACF.jpg" alt="Action Contre la Faim"><br>
 	<br><hr><br>
+=======
+	<img class="assoimg" src="./img/ACF.jpg" alt="Action Contre la Faim"><br>
+	<hr>
+>>>>>>> origin/master
 	
 	<h2>Médecins Sans Frontières</h2>
 	<p>Médecins Sans Frontières a été créée le 20 décembre 1971 par des médecins français qui s'étaient rendus au Biafra avec la Croix-Rouge pour tenter 
@@ -34,8 +39,13 @@
 	</p>
 	Site web : <a href="http://www.msf.fr/">http://www.msf.fr/</a>
 	<br><br>
+<<<<<<< HEAD
 	<img src="./img/MSF.jpg" alt="Médecins Sans Frontières"><br>
 	<br><hr><br>
+=======
+	<img class="assoimg" src="./img/MSF.jpg" alt="Médecins Sans Frontières"><br>
+	<hr>
+>>>>>>> origin/master
 		
 	<h2>Enfants Du Monde</h2>
 	<p>Un développement sain pour un enfant requiert bien sûr plusieurs domaines d’intervention complémentaires et indissociables.
@@ -52,8 +62,13 @@
 	</p>
 	Site web : <a href="http://www.edm.org/">http://www.edm.org/</a>
 	<br><br>
+<<<<<<< HEAD
 	<img src="./img/EDM.jpg" alt="Enfants du Monde"><br>
 	<br><hr><br>
+=======
+	<img class="assoimg" src="./img/EDM.jpg" alt="Enfants du Monde"><br>
+	<hr>
+>>>>>>> origin/master
 	
 	<h2>De l'Eau Pour L'Afrique</h2>
 	<p>L’association De l’eau pour l’Afrique est une association qui favorise l’accès à l’eau potable dans les pays en voie de développement.
@@ -70,7 +85,12 @@
 	</p>
 	Site web : <a href="http://www.deleaupourlafrique.org/">http://www.deleaupourlafrique.org/</a>
 	<br><br>
+<<<<<<< HEAD
 	<img src="./img/EPA.jpg" alt="Eau pour l'Afrique"><br>
 	<br><hr><br>
+=======
+	<img class="assoimg" src="./img/EPA.jpg" alt="Eau pour l'Afrique"><br>
+	<hr>
+>>>>>>> origin/master
 </div>
 			

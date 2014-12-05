@@ -13,7 +13,7 @@ h1{
 
 h2, h3{
 	text-align:center;
-	padding-bottom:1%;
+	padding-bottom:0%;
 }
 
 p{
@@ -24,13 +24,17 @@ p{
 	margin-bottom: 25px;
 }
 
-img{
+.assoimg{
 	display: block;
 	margin-left:auto;
 	margin-right:auto;
 }
 .section{
 	margin-top:20px;
+}
+
+.center{
+	text-align:center;
 }
 
 #contenu{
