@@ -1,6 +1,7 @@
 <div id="contenu">
 	
 	<h1> Un don pour changer le monde </h1>
+	<hr>
 	<h3> Bienvenue dans le système de donation indirecte </h3>
 	
 	<p> Les règles du jeu sont simples: </br>
