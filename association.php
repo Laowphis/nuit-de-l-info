@@ -12,8 +12,9 @@
 			<li>Eau, assainissement et hygiène</li>
 			<li>Plaidoyer et sensibilisation</li>
 		</ul>
-	</p><br><br><br>		
+	</p>		
 	Site web : <a href="http://www.actioncontrelafaim.org/">http://www.actioncontrelafaim.org/</a>
+	<br><br>
 	<img src="./img/ACF.jpg" alt="Action Contre la Faim"><br>
 	<br><hr><br>
 	
@@ -29,8 +30,9 @@
 			<li>Catastrophes naturelles</li>
 			<li>Exclusion des soins</li>
 		</ul>
-	</p><br>
+	</p>
 	Site web : <a href="http://www.msf.fr/">http://www.msf.fr/</a>
+	<br><br>
 	<img src="./img/MSF.jpg" alt="Médecins Sans Frontières"><br>
 	<br><hr><br>
 		
@@ -46,8 +48,9 @@
 			<li>Soutien aux enfants sourds</li>
 			<li>Accès à l'eau potable</li>
 		</ul>
-	</p><br>
+	</p>
 	Site web : <a href="http://www.edm.org/">http://www.edm.org/</a>
+	<br><br>
 	<img src="./img/EDM.jpg" alt="Enfants du Monde"><br>
 	<br><hr><br>
 	
@@ -63,8 +66,9 @@
 			<li>Accès à l'eau pour l'agriculture</li>
 			<li>Information face aux dangers du réassèchements du sol</li>
 		</ul>
-	</p><br>
+	</p>
 	Site web : <a href="http://www.deleaupourlafrique.org/">http://www.deleaupourlafrique.org/</a>
+	<br><br>
 	<img src="./img/EPA.jpg" alt="Eau pour l'Afrique"><br>
 	<br><hr><br>
 </div>

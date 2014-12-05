@@ -6,9 +6,13 @@ body {
 	margin: 1% 0% 0% 1%;
 }
 
-h1, h2, h3{
+h1{
 	text-align:center;
 	padding: 2%;
+}
+
+h2, h3{
+	text-align:center;
 }
 
 p{
@@ -49,10 +53,6 @@ img{
 
 a:link{
 	color:white;
-}
-
-.liste_ligne {
-display:inline;
 }
 
 a:visited{
