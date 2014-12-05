@@ -20,6 +20,10 @@ p{
 	text-align:justify;
 	font-size: large;
 }
+
+ul{
+	font-size: large;
+}
 #logo {
 	text-align: center;
 	margin-bottom: 25px;
