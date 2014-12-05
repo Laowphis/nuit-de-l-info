@@ -32,13 +32,13 @@
 						<tr>
 							<td>
 							
-							<img  src ="collecte.png" alt mains />
+							<img  src ="img/collecte.png" alt mains />
 						
 							</td>
 						
 							<td>
 							
-							<img  src ="don_2.png" alt don />
+							<img  src ="img/don_2.png" alt don />
 							</td>
 						
 						</tr>

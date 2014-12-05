@@ -23,12 +23,12 @@
 			
 		
              <label>Votre don</label> : <input type="text" name="don" /> 
-			<a href=" https://www.paypal.com/fr/home"> <img src="paypal_2.png" alt="Paypal" </a>
+			<a href=" https://www.paypal.com/fr/home"> <img src="img/paypal_2.png" alt="Paypal" </a>
 
 		   <br>
 		   <br> 
 		   <br>
-			<img src = "don.jpg" alt Don />
+			<img src = "img/don.jpg" alt Don />
 		</p>
 	</form>
 
