@@ -26,10 +26,11 @@
 	</div>
 	<div id="suggestion_association">
 		<p> Pour faire une suggestion d'association, veuillez envoyer un mail à insertcoin4charity@gmail.com avec : <br>
-		Nom de l'association, <br>
-		Cause défendue par l'association, <br>
-		Site de l'association, <br>
-		Localisation des actions de l'association.
+		<ul> <li>Nom de l'association, </li>
+			 <li>Cause défendue par l'association, </li>
+			 <li>Site de l'association, </li>
+			 <li>Localisation des actions de l'association. </li>
+		</ul>	
 		</p>
 	</div>
 </div>
