@@ -38,7 +38,7 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="index.php?page=Don">Dons</a></li>
+            <li><a href="index.php?page=don">Dons</a></li>
             <li><a href="index.php?page=association">Associations</a></li>
             <li><a href="index.php?page=cause">Suggestions</a></li>
 			<li><a href="index.php?page=contact">Contacts</a></li>
