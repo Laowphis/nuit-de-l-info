@@ -1,6 +1,6 @@
 
 <div id="contenu">
-	<h1>Insert</h1>
+	<h1>Insert <img src="img/coin.gif"/> for charity</h1>
 	
 	<h2>Ici, achetez votre place au paradis !</h2>
 	
