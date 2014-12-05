@@ -8,13 +8,15 @@
 	Bon jeu à vous !
 	</p>
 	
-	<p><a href="2048.php">Le site s'engage à transformer votre score en donation.</a></p>
 	
-	
-	<!--<div id= "jeu" >
-	
-	
-	</div>-->
+	<?php
+		include('2048.php');
+	?>
+	<br>
+	<br>
+	<br>
+	<br>
+	<p>Votre score sera converti en don à l'un de nos partenaires</p>
 
 
 </div>

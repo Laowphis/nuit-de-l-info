@@ -14,20 +14,10 @@
 			<li>Plaidoyer et sensibilisation</li>
 		</ul>
 	</p>		
-	Site web : <a href="http://www.actioncontrelafaim.org/">http://www.actioncontrelafaim.org/</a>
+	<p>Site web : <a href="http://www.actioncontrelafaim.org/">http://www.actioncontrelafaim.org/</a></p>
 	<br><br>
-
-<<<<<<< HEAD
-	<img src="./img/ACF.jpg" alt="Action Contre la Faim"><br>
+	<img class="assoimg" src="./img/ACF.jpg" alt="Action Contre la Faim"><br>
 	<br><hr><br>
-
-	<img class="assoimg" src="./img/ACF.jpg" alt="Action Contre la Faim"><br>
-	<hr>
-=======
-	<img class="assoimg" src="./img/ACF.jpg" alt="Action Contre la Faim"><br>
-	<hr>
-
->>>>>>> origin/master
 	
 	<h2>Médecins Sans Frontières</h2>
 	<p>Médecins Sans Frontières a été créée le 20 décembre 1971 par des médecins français qui s'étaient rendus au Biafra avec la Croix-Rouge pour tenter 
@@ -42,17 +32,10 @@
 			<li>Exclusion des soins</li>
 		</ul>
 	</p>
-	Site web : <a href="http://www.msf.fr/">http://www.msf.fr/</a>
+	<p>Site web : <a href="http://www.msf.fr/">http://www.msf.fr/</a></p>
 	<br><br>
-
-<<<<<<< HEAD
-	<img src="./img/MSF.jpg" alt="Médecins Sans Frontières"><br>
+	<img class ="assoimg" src="./img/MSF.jpg" alt="Médecins Sans Frontières"><br>
 	<br><hr><br>
-
-=======
->>>>>>> origin/master
-	<img class="assoimg" src="./img/MSF.jpg" alt="Médecins Sans Frontières"><br>
-	<hr>
 
 		
 	<h2>Enfants Du Monde</h2>
@@ -68,18 +51,10 @@
 			<li>Accès à l'eau potable</li>
 		</ul>
 	</p>
-	Site web : <a href="http://www.edm.org/">http://www.edm.org/</a>
+	<p>Site web : <a href="http://www.edm.org/">http://www.edm.org/</a></p>
 	<br><br>
-
-<<<<<<< HEAD
-	<img src="./img/EDM.jpg" alt="Enfants du Monde"><br>
-	<br><hr><br>
-
-=======
-	
->>>>>>> origin/master
 	<img class="assoimg" src="./img/EDM.jpg" alt="Enfants du Monde"><br>
-	<hr>
+	<br><hr><br>
 
 	
 	<h2>De l'Eau Pour L'Afrique</h2>
@@ -95,17 +70,8 @@
 			<li>Information face aux dangers du réassèchements du sol</li>
 		</ul>
 	</p>
-	Site web : <a href="http://www.deleaupourlafrique.org/">http://www.deleaupourlafrique.org/</a>
+	<p>Site web : <a href="http://www.deleaupourlafrique.org/">http://www.deleaupourlafrique.org/</a></p>
 	<br><br>
-
-<<<<<<< HEAD
-	<img src="./img/EPA.jpg" alt="Eau pour l'Afrique"><br>
-	<br><hr><br>
-
-=======
->>>>>>> origin/master
 	<img class="assoimg" src="./img/EPA.jpg" alt="Eau pour l'Afrique"><br>
-	<hr>
-
+	<br><hr><br>
 </div>
-			
