@@ -18,10 +18,19 @@
 						</tr>	
 					</table>
 			</p>
+				Merci d'avance de votre participation. 
 			<p> Veuillez saisir le montant de votre don </br>
-			<input type="text" name="Votre don : " /> <input type="submit" value="Faire un don" />
+			
 		
+             <label>Votre don</label> : <input type="text" name="don" /> 
+			<a href=" https://www.paypal.com/fr/home"> <img src="paypal_2.png" alt="Paypal" </a>
+
+		   <br>
+		   <br> 
+		   <br>
+			<img src = "don.jpg" alt Don />
 		</p>
 	</form>
 
-</div>
+</div> 
+

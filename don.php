@@ -1,11 +1,14 @@
 <div id="contenu">
 					
 	<h1>Un don pour changer le monde </h1> <!-- Title -->
+	<br>
 		<p class="center"> Dans l'optique de la réduction des inégalités dans le monde, notre site met en place deux systèmes permettant de contribuer financièrement 
 		à différentes associations engagées dans ces luttes humanitaires.</p>  <!-- Presentation -->
- 
+       <br>
+	   <br>
 		<p class="center"> Nous proposons un système de donations directes et un système de donations indirectes </p>
-			
+			 <br>
+			 <br>
 		<p>
 
 				   
@@ -24,7 +27,23 @@
 					
 					
 					</table>
-					
+
+					<table>
+						<tr>
+							<td>
+							
+							<img  src ="collecte.png" alt mains />
+						
+							</td>
+						
+							<td>
+							
+							<img  src ="don_2.png" alt don />
+							</td>
+						
+						</tr>
+						
+					</table>
 					
 					
 					
