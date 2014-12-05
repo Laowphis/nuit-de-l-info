@@ -10,11 +10,12 @@
 			<textarea name="suggestion" cols="50" rows="5"></textarea>
 			<br>
 			<br>
-			<input type="submit" value="Suggérer">
+			<input type="submit" value="Suggérer" action="localhost/nuit-de-l-info/merci.php">
+			
 			</form> 
 		</div>
 		<div id="suggestions_precedentes">
-		
+			
 		
 		</div>
 	</div>
