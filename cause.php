@@ -10,7 +10,7 @@
 			<textarea name="suggestion" cols="150" rows="5"></textarea>
 			<br>
 			<br>
-			<input type="submit" value="Suggérer" action="localhost/nuit-de-l-info/merci.php">
+			<input type="submit" value="Suggérer" action="merci.php">
 			
 			</form> 
 		</div>
