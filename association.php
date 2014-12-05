@@ -1,5 +1,6 @@
 ﻿<div id="contenu">
 	<h1>Les causes humanitaires que nous soutenons </h1>
+	<hr>
 	<h2>Action Contre la Faim</h2>
 	<p>Née dans le contexte de la crise afghane en 1979, Action internationale contre la Faim (dénomination de l’association à sa création) a été fondée 
 		par un groupe d'intellectuels français ainsi qu'un certain nombre de médecins, journalistes et écrivains.
