@@ -13,7 +13,6 @@
 			<br>
 			</form> 
 			<br>
-			<a href="mailto:insertcoin4charity@gmail.com"><input type="submit" value="envoyer un mail"></a>
 		</div>
 	</div>
 	
@@ -29,5 +28,8 @@
 			 <li>Localisation des actions de l'association. </li>
 		</ul>	
 		</p>
+	</div>
+	<div>
+	<a href="mailto:insertcoin4charity@gmail.com"><input type="submit" value="envoyer un mail"></a>
 	</div>
 </div>
