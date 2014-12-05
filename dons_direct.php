@@ -8,13 +8,13 @@
 			<p class ="para_centre"> Veuillez choisir les assosiations auprès desquelles vous souhaitez contribuer </br>
 					<table>
 						<tr> 
-							<td> <input type="checkbox" name= id=" ASSO1" /> <label for="ASSO1">ASSO1</label><br /> </td>
-							<td> <input type="checkbox" name= id=" ASSO2" /> <label for="ASSO2">ASSO2</label><br /> </td>
+							<td> <input type="checkbox" name= id=" ASSO1" /> <label for="ASSO1">Action contre la Faim</label><br /> </td>
+							<td> <input type="checkbox" name= id=" ASSO2" /> <label for="ASSO2">Médecins sans Frontières</label><br /> </td>
 						</tr>	
 					
 						<tr>
-							<td> <input type="checkbox" name= id=" ASSO3" /> <label for="ASSO3">ASSO3</label><br /> </td>
-							<td> <input type="checkbox" name= id=" ASSO4" /> <label for="ASSO4">ASSO4</label><br /> </td>
+							<td> <input type="checkbox" name= id=" ASSO3" /> <label for="ASSO3">Enfants du Monde</label><br /> </td>
+							<td> <input type="checkbox" name= id=" ASSO4" /> <label for="ASSO4">De l'eau pour l'Afrique</label><br /> </td>
 						</tr>	
 					</table>
 			</p>
