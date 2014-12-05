@@ -7,7 +7,7 @@
 		</div>
 		<div id="input_new_cause ">
 			<form action="suggestion.php">
-			<textarea name="suggestion" cols="50" rows="5"></textarea>
+			<textarea name="suggestion" cols="150" rows="5"></textarea>
 			<br>
 			<br>
 			<input type="submit" value="Suggérer" action="localhost/nuit-de-l-info/merci.php">
