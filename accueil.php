@@ -21,7 +21,7 @@
 	
 	<div id="map">
 	<iframe width='100%' height='650px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/wildcerebrus.kd8723da/page.html?access_token=pk.eyJ1Ijoid2lsZGNlcmVicnVzIiwiYSI6IjZsTlpyTGcifQ.DNivhP6lPb55hN0QQhJJyw#3/0.00/0.00'></iframe>
-	</div>
+	</div>													 
 	
 	<table id=>
 		<tr>
