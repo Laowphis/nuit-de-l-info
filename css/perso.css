@@ -7,6 +7,14 @@ body {
 	margin: 1% 0% 0% 1%;
 }
 
+#footer
+{
+text-align: center;
+font-size: small;
+background-color: black;
+color: clay;
+}
+
 #table{
 	margin: auto;
 	padding: 50px;
