@@ -10,7 +10,7 @@
 			<textarea name="suggestion" cols="150" rows="5"></textarea>
 			<br>
 			<br>
-			<input type="submit" value="Suggérer" action="index.php?page=merci">
+			<a ref="index.php?page=merci"><input type="submit" value="Suggérer"></a>
 			
 			</form> 
 		</div>
