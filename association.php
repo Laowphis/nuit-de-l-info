@@ -3,7 +3,8 @@
 	<h2>Action Contre la Faim</h2>
 	<p>Née dans le contexte de la crise afghane en 1979, Action internationale contre la Faim (dénomination de l’association à sa création) a été fondée 
 		par un groupe d'intellectuels français ainsi qu'un certain nombre de médecins, journalistes et écrivains.
-		La mission d'Action contre la Faim consiste gences et de conflits. En 2012 ACF est intervenue dans 45 pays, venant en aide à près de 7,3 millions de personnes.
+		La mission d'Action contre la Faim consiste à sauver des vies par la prévention, la détection et le traitement de la sous-nutrition, 
+		en particulier pendant et suite à des situations d’urgences et de conflits. En 2012 ACF est intervenue dans 45 pays, venant en aide à près de 7,3 millions de personnes.
 		Elle centre son intervention sur une approche intégrée, prenant en compte divers secteurs :
 		<br>
 		<ul>
@@ -16,7 +17,7 @@
 	Site web : <a href="http://www.actioncontrelafaim.org/">http://www.actioncontrelafaim.org/</a>
 	<br><br>
 	<img src="./img/ACF.jpg" alt="Action Contre la Faim"><br>
-	<br><hr>
+	<br><hr><br>
 	
 	<h2>Médecins Sans Frontières</h2>
 	<p>Médecins Sans Frontières a été créée le 20 décembre 1971 par des médecins français qui s'étaient rendus au Biafra avec la Croix-Rouge pour tenter 
@@ -34,7 +35,7 @@
 	Site web : <a href="http://www.msf.fr/">http://www.msf.fr/</a>
 	<br><br>
 	<img src="./img/MSF.jpg" alt="Médecins Sans Frontières"><br>
-	<br><hr>
+	<br><hr><br>
 		
 	<h2>Enfants Du Monde</h2>
 	<p>Un développement sain pour un enfant requiert bien sûr plusieurs domaines d’intervention complémentaires et indissociables.
@@ -52,7 +53,7 @@
 	Site web : <a href="http://www.edm.org/">http://www.edm.org/</a>
 	<br><br>
 	<img src="./img/EDM.jpg" alt="Enfants du Monde"><br>
-	<br><hr>
+	<br><hr><br>
 	
 	<h2>De l'Eau Pour L'Afrique</h2>
 	<p>L’association De l’eau pour l’Afrique est une association qui favorise l’accès à l’eau potable dans les pays en voie de développement.
@@ -70,6 +71,6 @@
 	Site web : <a href="http://www.deleaupourlafrique.org/">http://www.deleaupourlafrique.org/</a>
 	<br><br>
 	<img src="./img/EPA.jpg" alt="Eau pour l'Afrique"><br>
-	<br><hr>
+	<br><hr><br>
 </div>
 			
