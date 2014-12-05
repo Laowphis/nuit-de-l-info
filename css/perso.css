@@ -6,10 +6,10 @@ body {
 	margin: 1% 0% 0% 1%;
 }
 
-#intro
+#table
 {
-font-size: large;
-font-align: justify;
+margin: auto;
+padding: 50px;
 }
 
 h1{
@@ -24,6 +24,7 @@ h2, h3{
 
 p{
 	text-align:justify;
+	font-size: large;
 }
 #logo {
 	text-align: center;

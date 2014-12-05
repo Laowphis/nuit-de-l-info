@@ -23,10 +23,11 @@
 	<iframe width='100%' height='650px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/wildcerebrus.kd8723da/page.html?access_token=pk.eyJ1Ijoid2lsZGNlcmVicnVzIiwiYSI6IjZsTlpyTGcifQ.DNivhP6lPb55hN0QQhJJyw#3/0.00/0.00'></iframe>
 	</div>
 	
-	<table id="intro">
+	<table id="table">
 		<tr>
 			<td>Convaincu de faire un don ? C'est par ici</td>
-			<td><img src="img/fleche.png"/> <a href="index.php?page=don"> <img src="img/don.png"/> </a></td>
+			<td><img src="img/fleche.png"/></td> 
+			<td><a href="index.php?page=don"> <img src="img/don.png"/> </a></td>
 		<tr>
 	</table>
 	
