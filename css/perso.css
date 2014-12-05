@@ -6,15 +6,11 @@ body {
 	margin: 1% 0% 0% 1%;
 }
 
-<<<<<<< HEAD
-#table
-{
-margin: auto;
-padding: 50px;
+#table{
+	margin: auto;
+	padding: 50px;
 }
 
-=======
->>>>>>> origin/master
 h1{
 	text-align:center;
 	padding: 2% 0% 1% 0%;
@@ -28,14 +24,12 @@ h2, h3{
 p{
 	text-align:justify;
 	font-size: large;
-<<<<<<< HEAD
-=======
 }
 
 ul{
 	font-size: large;
->>>>>>> origin/master
 }
+
 #logo {
 	text-align: center;
 	margin-bottom: 25px;
