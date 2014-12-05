@@ -19,7 +19,9 @@ p{
 }
 
 img{
-	align:center;
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
 }
 .section{
 	margin-top:20px;
