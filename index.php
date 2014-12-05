@@ -28,6 +28,9 @@
 		elseif ($page =='dons_indirect'){
 			include('dons_indirect.php');
 		}
+		elseif ($page =='merci'){
+			include('merci.php');
+		}
 		/*elseif ($page =='contact'){
 			include ('contact.php');
 		}

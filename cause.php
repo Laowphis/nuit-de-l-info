@@ -1,5 +1,5 @@
 <div id="contenu">
-	<div id="titre"> <h3> Défend ta cause : </h3>
+	<div id="titre"> <h3> Défendez une cause : </h3>
 	</div>
 	<div id="new_cause"> 
 		<div id="consigne_new_cause">
@@ -10,7 +10,7 @@
 			<textarea name="suggestion" cols="150" rows="5"></textarea>
 			<br>
 			<br>
-			<input type="submit" value="Suggérer" action="merci.php">
+			<input type="submit" value="Suggérer" action="index.php?page=merci">
 			
 			</form> 
 		</div>
