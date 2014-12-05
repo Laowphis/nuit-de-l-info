@@ -13,7 +13,7 @@
 		elseif ($page =='cause'){
 			include ('cause.php');
 		}
-		elseif ($page =='Don'){
+		elseif ($page =='don'){
 			include ('don.php');
 		}
 		elseif ($page =='association'){
