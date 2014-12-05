@@ -8,11 +8,13 @@
 	Bon jeu à vous !
 	</p>
 	
+	<p><a href="2048.php">Le site s'engage à transformer votre score en donation.</a></p>
 	
-	<div id= "jeu" >
+	
+	<!--<div id= "jeu" >
 	
 	
-	</div>
-<p class= "para_centre"> Le site s'engage à transformer votre score en donation. </p>
+	</div>-->
+
 
 </div>
