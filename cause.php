@@ -1,5 +1,6 @@
 <div id="contenu">
 	<div id="titre"> <h3> Défendez une cause : </h3>
+	<hr>
 	</div>
 	<div id="new_cause"> 
 		<div id="consigne_new_cause">
