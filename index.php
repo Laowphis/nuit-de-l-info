@@ -31,6 +31,9 @@
 		elseif ($page =='merci'){
 			include('merci.php');
 		}
+		elseif ($page == 'contact'){
+			include('contact.php');
+		}
 		/*elseif ($page =='contact'){
 			include ('contact.php');
 		}
