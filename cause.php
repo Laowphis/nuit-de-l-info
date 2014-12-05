@@ -6,12 +6,12 @@
 		Suggérez votre cause ici :
 		</div>
 		<div id="input_new_cause ">
-			<form action="suggestion.php">
-			<textarea name="suggestion" cols="150" rows="5"></textarea>
+			<form action="index.php?page=merci">
+			<textarea name="suggestion" cols="200" rows="5"></textarea>
 			<br>
+			<input type="submit" value="Suggérer"> 
 			<br>
-			<a ref="index.php?page=merci"><input type="submit" value="Suggérer"></a>
-			
+			<a href="mailto:insertcoin4charity@gmail.com"><input type="submit" value="envoyer un mail"></a>
 			</form> 
 		</div>
 		<div id="suggestions_precedentes">
