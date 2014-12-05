@@ -13,8 +13,9 @@ text-align: center;
 font-size: small;
 background-color: black;
 color: clay;
-}
+list-style-type:none;
 
+}
 #table{
 	margin: auto;
 	padding: 50px;
