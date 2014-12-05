@@ -7,16 +7,13 @@
 		</div>
 		<div id="input_new_cause ">
 			<form action="index.php?page=merci">
-			<textarea name="suggestion" cols="200" rows="5"></textarea>
+			<textarea name=" cols="200" rows="5"></textarea>
 			<br>
 			<input type="submit" value="Suggérer"> 
 			<br>
-			<a href="mailto:insertcoin4charity@gmail.com"><input type="submit" value="envoyer un mail"></a>
 			</form> 
-		</div>
-		<div id="suggestions_precedentes">
-			
-		
+			<br>
+			<a href="mailto:insertcoin4charity@gmail.com"><input type="submit" value="envoyer un mail"></a>
 		</div>
 	</div>
 	
